@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/735ed204-223f-4e08-ab9d-c243b83f3672" 
+  <img src="https://github.com/user-attachments/assets/23420175-fe20-448e-98fc-7da02d4acc47" 
        alt="Без названия" 
        width="1200">
 </div>
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+My+name+Yaroslav;" />
@@ -44,7 +43,7 @@ I'm eager to contribute, learn, and grow within a professional development team.
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4d52304-2fad-478a-910f-3438235fd6f1" alt="Design internet">
+  <img src="https://github.com/user-attachments/assets/b377c0f7-9e90-4650-a23c-8f729ba47b26" alt="Design internet">
 </p>
 
 <details align="center">
