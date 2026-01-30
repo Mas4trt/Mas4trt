@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/23420175-fe20-448e-98fc-7da02d4acc47" 
+  <img src="/assets/play.gif" 
        alt="Без названия" 
        width="1200">
 </div>
@@ -43,7 +43,7 @@ I'm eager to contribute, learn, and grow within a professional development team.
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b377c0f7-9e90-4650-a23c-8f729ba47b26" alt="Design internet">
+  <img src="/assets/e.gif">
 </p>
 
 <details align="center">
