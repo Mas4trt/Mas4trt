@@ -52,7 +52,7 @@ I'm eager to contribute, learn, and grow within a professional development team.
       <h3>Frontend</h3>
         <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
       <h3>Backend</h3>
-        <img src="https://skillicons.dev/icons?i=php,cpp,cs, go" />
+        <img src="https://skillicons.dev/icons?i=php,cpp,cs,go" />
       <h3>Frameworks</h3>
         <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,sass" />
       <h3>Tools</h3>
