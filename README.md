@@ -49,20 +49,22 @@ I'm eager to contribute, learn, and grow within a professional development team.
 <details align="center">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <div align="center">
-      <h3>Langs</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,cpp,cs" />
+      <h3>Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+      <h3>Backend</h3>
+        <img src="https://skillicons.dev/icons?i=php,cpp,cs, go" />
       <h3>Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,sass" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,sass" />
       <h3>Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,vite,npm" />
+        <img src="https://skillicons.dev/icons?i=git,docker,vite,npm" />
       <h3>Databases & Caching</h3>
-      <img src="https://skillicons.dev/icons?i=mysql,redis,postgres" />
+        <img src="https://skillicons.dev/icons?i=mysql,redis,postgres" />
       <h3>Software</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
       <h3>Design</h3>
-      <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,figma" />
+        <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,figma" />
       <h3>Сommunication</h3>
-      <img src="https://skillicons.dev/icons?i=discord" />
+        <img src="https://skillicons.dev/icons?i=discord" />
       
   </div>
 </details>
