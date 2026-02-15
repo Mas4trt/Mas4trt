@@ -58,6 +58,11 @@ I'm eager to contribute, learn, and grow within a professional development team.
       <h3>Databases & Caching</h3>
       <img src="https://skillicons.dev/icons?i=mysql,redis,postgres" />
       <h3>Software</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,discord,ps,ae,pr,blender,figma" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+      <h3>Design</h3>
+      <img src="https://skillicons.dev/icons?i=ps,ae,pr,blender,figma" />
+      <h3>Сommunication</h3>
+      <img src="https://skillicons.dev/icons?i=discord" />
+      
   </div>
 </details>
